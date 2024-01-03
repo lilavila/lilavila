@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilavila
 - 👀 I’m interested in technology, music and crafts.
-- 🌱 I'm a Full Stack developer in training, and I'm looking for an opportunity to work as a Front End.
+- 🌱 I'm a Full Stack developer in training, and I'm looking for an opportunity to work as Front End.
 - 💞️ I'm looking for my first job as a Front End.
 - 📫 How to reach me at linkedin: https://www.linkedin.com/in/lilanavila
 
