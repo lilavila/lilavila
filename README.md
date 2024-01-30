@@ -1,8 +1,7 @@
 - 👋 Oi! Eu sou Lilian Ávila.
 - 🌱 Sou desenvolvedora Full Stack em formação.
-- 🔆 Estou em busca de oportunidade Front End.
+- 💻 Estou em busca de oportunidade Front End.
   
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -10,7 +9,6 @@
   <img align="center" alt="Lila-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
 
 ##
 
