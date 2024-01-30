@@ -1,5 +1,5 @@
-- 👋 Oi! Eu sou Lilian Ávila.
-- 💻 Sou desenvolvedora Full Stack em formação.
+- 👋 Oi! Eu sou a Lilian Ávila.
+- 💻 Sou desenvolvedora Full Stack em formação, pela Kenzie Acadey Brasil.
 - 🌱 Estou em busca de oportunidade Front End.
 
 Stacks
